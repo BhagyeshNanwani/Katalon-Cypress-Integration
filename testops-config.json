@@ -1,0 +1,6 @@
+{
+    "apiKey": "<Enter your Katalon API key here>",
+    "basePath": "",
+    "projectId": "<Enter your project ID here>",
+    "reportFolder": ""
+}
